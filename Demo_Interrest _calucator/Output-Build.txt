@@ -1,0 +1,5 @@
+﻿Build started at 18:39...
+1>------ Build started: Project: Demo_Interrest _calucator, Configuration: Debug Any CPU ------
+1>  Demo_Interrest _calucator -> C:\Users\adity\source\repos\Wipro Training\Demo_Interrest _calucator\Demo_Interrest _calucator\bin\Debug\Demo_Interrest _calucator.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 18:40 and took 23.523 seconds ==========
